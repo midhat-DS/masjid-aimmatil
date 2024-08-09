@@ -200,7 +200,7 @@ h4, h5, h6, .h4, .h5, .h6 {
     padding-top: 15rem;
     padding-bottom: 6rem;
     margin-right: 6rem;
-    background: url("../img/masjid1.jpeg"), center center no-repeat;
+    background: url("../img/masjid6.jpeg"), center center no-repeat;
     background-size: cover;
 }
 
@@ -434,7 +434,7 @@ h4, h5, h6, .h4, .h5, .h6 {
 
 /*** Footer Start ***/
 .footer {
-    margin-top: 6rem;
+    margin-top: auto;
     background: var(--bs-dark);
 }
 
